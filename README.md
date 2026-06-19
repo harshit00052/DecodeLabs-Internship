@@ -14,3 +14,7 @@ This project analyzes sales data using Python and Pandas
 - numpy
 - Google Colab
 
+## Author
+
+HARSHIT KUMAR
+GitHub: https://github.com/harshit00052
